@@ -39,29 +39,37 @@ li {
     border-radius: 20px;
 }
 .btn-default {
-    background-color: #007bff;
+    background-color: #3d1580;
     color: #fff;
 }
 
 .btn-default:hover {
-    background-color: yellow;
-    color: #000;
-}
-
-.btn-gradiente {
-    border-radius: 50px;
-    background: linear-gradient(to right, #4a2ed3, #6f93ff);
+    background: #6315ab;
     color: #fff;
-    border: none;
+    transform:scale(1.05);
 }
 
 .btn-gradiente:hover {
-    transform:scale(1.05);
+    
+}
+
+.card-body {
+    color: rgb(82, 82, 82);
+}
+.card-title {
+    font-weight: bold;
 }
 
 .link-nav {
     color: rgb(255, 255, 255);
     font-weight: 700;
+}
+
+.link-nav:hover {
+    color: #8520e4;
+    font-weight: 700;
+    text-decoration: none;
+    transform:scale(1.1);
 }
 
 .fa {
