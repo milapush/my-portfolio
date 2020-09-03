@@ -75,7 +75,21 @@ li {
     background-color: aliceblue;
 }
 
+.progress-html {
+    background-color: #fb8200;
+}
 
+.progress-bootstrap {
+    background-color: #7e5bb3;
+}
+
+.progress-js {
+    background-color: #ecae02
+}
+
+.progress-ps {
+    background-color: #3108b3;
+}
 @media screen and (min-width:768px) {
 }
 
