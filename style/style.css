@@ -1,9 +1,87 @@
 body {
-    font-family: 'Roboto', sans-serif, 'Font Awesome 5 Free';
+    font-family: 'Source Sans Pro', 'sans-serif', 'Font Awesome 5 Free';
     overflow-x: hidden;
+    background-color: #0a0809;
 
 }
 
+/* TAMANHOS DE FONTES */
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.1rem;
+}
+
+.titulo {
+    font-size: 5rem;
+    font-weight: 900;
+    color: #fff;
+    line-height: 80px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 100px;
+}
+
+li {
+    color: #fff;
+    font-size: 1.3rem;
+}
+
+.card {
+    border-radius: 20px;
+}
+.btn-default {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-default:hover {
+    background-color: yellow;
+    color: #000;
+}
+
+.btn-gradiente {
+    border-radius: 50px;
+    background: linear-gradient(to right, #4a2ed3, #6f93ff);
+    color: #fff;
+    border: none;
+}
+
+.btn-gradiente:hover {
+    transform:scale(1.05);
+}
+
+.link-nav {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.container-skills {
+    background-image: url(../images/bg-skills.jpg);
+}
+.rounded {
+    border-radius: 50px;
+}
+
+
+.bg-gradiente {
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(49deg, #492bd2, #27acff);
+    background-image: -moz-linear-gradient(49deg, #492bd2, #27acff);
+    background-image: -ms-linear-gradient(49deg, #492bd2, #27acff);
+    background-image: -o-linear-gradient(49deg, #492bd2, #27acff);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492bd2', endColorstr='#27acff' );
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient( startColorstr='#492bd2', endColorstr='#27acff' );";
+    background-image: linear-gradient(49deg, #492bd2, #27acff);
+}
 
 @media screen and (min-width:768px) {
 }
