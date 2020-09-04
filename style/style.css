@@ -41,7 +41,7 @@ h3{
     transform:scale(1.1);
 }
 
-.titulo {
+.main-title {
     font-size: 2.5rem;
     font-weight: 900;
     color: #fff;
@@ -81,7 +81,7 @@ li {
     color: #fff;
 }
 
-.separador {
+.spacer {
     height: 1px;
     width: 200px;
     background-color: aliceblue;
@@ -92,7 +92,7 @@ li {
 }
 
 .progress-bootstrap {
-    background-color: #7e5bb3;
+    background-color: #884ce2;
 }
 
 .progress-js {
@@ -104,7 +104,7 @@ li {
 }
 
 @media screen and (min-width:768px) {
-    .titulo {
+    .main-title {
         font-size: 4rem;
         line-height: 70px;
     }
