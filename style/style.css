@@ -27,8 +27,7 @@ h3{
 
 .navbar a {
     color: #fff;
-    float: right;
-    display: block;
+    float: left;
     text-align: center;
     text-decoration: none;
     font-weight: 700;
@@ -71,10 +70,6 @@ li {
     background: #6315ab;
     color: #fff;
     transform:scale(1.05);
-}
-
-.btn-gradiente:hover {
-    
 }
 
 .card-body {
