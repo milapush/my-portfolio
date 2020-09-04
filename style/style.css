@@ -2,7 +2,6 @@ body {
     font-family: 'Source Sans Pro', 'sans-serif', 'Font Awesome 5 Free';
     overflow-x: hidden;
     background-color: #0a0809;
-
 }
 
 /* TAMANHOS DE FONTES */
@@ -16,6 +15,30 @@ h2 {
 }
 h3{
     font-size: 1.1rem;
+}
+
+.navbar {
+    background-color: #131313;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navbar a {
+    color: #fff;
+    float: right;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.navbar a:hover {
+    color: #8520e4;
+    font-weight: 700;
+    text-decoration: none;
+    transform:scale(1.1);
 }
 
 .titulo {
@@ -38,6 +61,7 @@ li {
 .card {
     border-radius: 20px;
 }
+
 .btn-default {
     background-color: #3d1580;
     color: #fff;
@@ -56,20 +80,9 @@ li {
 .card-body {
     color: rgb(82, 82, 82);
 }
+
 .card-title {
     font-weight: bold;
-}
-
-.link-nav {
-    color: rgb(255, 255, 255);
-    font-weight: 700;
-}
-
-.link-nav:hover {
-    color: #8520e4;
-    font-weight: 700;
-    text-decoration: none;
-    transform:scale(1.1);
 }
 
 .fa {
@@ -98,6 +111,7 @@ li {
 .progress-ps {
     background-color: #3108b3;
 }
+
 @media screen and (min-width:768px) {
 }
 
