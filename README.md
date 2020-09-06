@@ -7,9 +7,11 @@
 
 <p>Finished :heavy_check_mark: - But as more projects come up, I'll update it. </p>
  
- <h4>:rocket: Deploy: </h4>
- <p>https://camilagomes.netlify.app/</p>
+ #### :rocket: Deploy:
+ [camilagomes.netlify.app](bit.ly/camilagomes-portifa)
+ 
  <br>
+ 
 <img src="https://img.shields.io/static/v1?label=Bootstrap&message=Framework&color=DarkViolet&style=for-the-badge&logo=bootstrap"/>
 <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
 
