@@ -8,7 +8,7 @@
 <p>Finished :heavy_check_mark: - But as more projects come up, I'll update it. </p>
  
  #### :rocket: Deploy:
- [meu portifolio](bit.ly/camilagomes-portifa)
+ [camilagomes.netlify.app/](https://bit.ly/3i3Le8j)
  
  <br>
  
